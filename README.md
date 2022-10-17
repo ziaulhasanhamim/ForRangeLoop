@@ -7,7 +7,7 @@
 
 Install Using -
 
-`dotnet add package BetterErrors`
+`dotnet add package ForRangeLoop`
 
 
 ## Credits
